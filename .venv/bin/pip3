@@ -1,4 +1,4 @@
-#!/home/dominick/projects/courses/401-Projects/math-series/.venv/bin/python3.10
+#!/home/dmartin/Codefellows/401-Projects/math-series/.venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
